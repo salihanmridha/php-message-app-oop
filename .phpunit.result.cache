@@ -1,1 +1,1 @@
-{"version":1,"defects":{"MessageTest::testCanCreateMessage":4,"MessageTest::testSaveMessage":4},"times":{"MessageTest::testCanCreateMessage":0.012,"MessageTest::testSaveMessage":0.001}}
+{"version":1,"defects":{"MessageTest::testCanCreateMessage":4,"MessageTest::testSaveMessage":4},"times":{"MessageTest::testCanCreateMessage":0.033,"MessageTest::testSaveMessage":0.002}}
